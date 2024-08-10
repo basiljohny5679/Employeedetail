@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\basil\\OneDrive\\Desktop\\Api\\Employee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A0711B-95E2-4A2A-BC8D-903092B98891}|Employee\\EmployeeDetail.csproj|c:\\users\\basil\\onedrive\\desktop\\api\\employee\\employee\\employeedetail.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D4A0711B-95E2-4A2A-BC8D-903092B98891}|Employee\\EmployeeDetail.csproj|solutionrelative:employee\\employeedetail.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\basil\\OneDrive\\Desktop\\Api\\Employee\\Employee\\Migrations\\20240810001400_Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Employee\\Migrations\\20240810001400_Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A0711B-95E2-4A2A-BC8D-903092B98891}|Employee\\EmployeeDetail.csproj|c:\\users\\basil\\onedrive\\desktop\\api\\employee\\employee\\service\\employeeservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A0711B-95E2-4A2A-BC8D-903092B98891}|Employee\\EmployeeDetail.csproj|solutionrelative:employee\\service\\employeeservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A0711B-95E2-4A2A-BC8D-903092B98891}|Employee\\EmployeeDetail.csproj|c:\\users\\basil\\onedrive\\desktop\\api\\employee\\employee\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A0711B-95E2-4A2A-BC8D-903092B98891}|Employee\\EmployeeDetail.csproj|solutionrelative:employee\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A0711B-95E2-4A2A-BC8D-903092B98891}|Employee\\EmployeeDetail.csproj|c:\\users\\basil\\onedrive\\desktop\\api\\employee\\employee\\model\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A0711B-95E2-4A2A-BC8D-903092B98891}|Employee\\EmployeeDetail.csproj|solutionrelative:employee\\model\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A0711B-95E2-4A2A-BC8D-903092B98891}|Employee\\EmployeeDetail.csproj|c:\\users\\basil\\onedrive\\desktop\\api\\employee\\employee\\interface\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A0711B-95E2-4A2A-BC8D-903092B98891}|Employee\\EmployeeDetail.csproj|solutionrelative:employee\\interface\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A0711B-95E2-4A2A-BC8D-903092B98891}|Employee\\EmployeeDetail.csproj|c:\\users\\basil\\onedrive\\desktop\\api\\employee\\employee\\interface\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A0711B-95E2-4A2A-BC8D-903092B98891}|Employee\\EmployeeDetail.csproj|solutionrelative:employee\\interface\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A0711B-95E2-4A2A-BC8D-903092B98891}|Employee\\EmployeeDetail.csproj|c:\\users\\basil\\onedrive\\desktop\\api\\employee\\employee\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A0711B-95E2-4A2A-BC8D-903092B98891}|Employee\\EmployeeDetail.csproj|solutionrelative:employee\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A0711B-95E2-4A2A-BC8D-903092B98891}|Employee\\EmployeeDetail.csproj|c:\\users\\basil\\onedrive\\desktop\\api\\employee\\employee\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4A0711B-95E2-4A2A-BC8D-903092B98891}|Employee\\EmployeeDetail.csproj|solutionrelative:employee\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A0711B-95E2-4A2A-BC8D-903092B98891}|Employee\\EmployeeDetail.csproj|c:\\users\\basil\\onedrive\\desktop\\api\\employee\\employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A0711B-95E2-4A2A-BC8D-903092B98891}|Employee\\EmployeeDetail.csproj|solutionrelative:employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A0711B-95E2-4A2A-BC8D-903092B98891}|Employee\\EmployeeDetail.csproj|c:\\users\\basil\\onedrive\\desktop\\api\\employee\\employee\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A0711B-95E2-4A2A-BC8D-903092B98891}|Employee\\EmployeeDetail.csproj|solutionrelative:employee\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240810001400_Employee.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Api\\Employee\\Employee\\Migrations\\20240810001400_Employee.cs",
+              "RelativeDocumentMoniker": "Employee\\Migrations\\20240810001400_Employee.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Api\\Employee\\Employee\\Migrations\\20240810001400_Employee.cs",
+              "RelativeToolTip": "Employee\\Migrations\\20240810001400_Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:14:00.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeDetails.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Api\\Employee\\Employee\\Model\\EmployeeDetails.cs",
+              "RelativeDocumentMoniker": "Employee\\Model\\EmployeeDetails.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Api\\Employee\\Employee\\Model\\EmployeeDetails.cs",
+              "RelativeToolTip": "Employee\\Model\\EmployeeDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:14:34.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Api\\Employee\\Employee\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Employee\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Api\\Employee\\Employee\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "Employee\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAA7wEoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:57:32.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeDetail",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Api\\Employee\\Employee\\EmployeeDetail.csproj",
+              "RelativeDocumentMoniker": "Employee\\EmployeeDetail.csproj",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Api\\Employee\\Employee\\EmployeeDetail.csproj",
+              "RelativeToolTip": "Employee\\EmployeeDetail.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-10T00:09:24.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Api\\Employee\\Employee\\Interface\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Employee\\Interface\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Api\\Employee\\Employee\\Interface\\IEmployeeService.cs",
+              "RelativeToolTip": "Employee\\Interface\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:49:39.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService .cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Api\\Employee\\Employee\\Service\\EmployeeService .cs",
+              "RelativeDocumentMoniker": "Employee\\Service\\EmployeeService .cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Api\\Employee\\Employee\\Service\\EmployeeService .cs",
+              "RelativeToolTip": "Employee\\Service\\EmployeeService .cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAD4vy0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:13:49.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Api\\Employee\\Employee\\Interface\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Employee\\Interface\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Api\\Employee\\Employee\\Interface\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Employee\\Interface\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:47:36.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Api\\Employee\\Employee\\Program.cs",
+              "RelativeDocumentMoniker": "Employee\\Program.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Api\\Employee\\Employee\\Program.cs",
+              "RelativeToolTip": "Employee\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:33:52.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Api\\Employee\\Employee\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Employee\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Api\\Employee\\Employee\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Employee\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAzwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:30:58.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Api\\Employee\\Employee\\appsettings.json",
+              "RelativeDocumentMoniker": "Employee\\appsettings.json",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Api\\Employee\\Employee\\appsettings.json",
+              "RelativeToolTip": "Employee\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T11:36:38.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Api\\Employee\\Employee\\Model\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Employee\\Model\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Api\\Employee\\Employee\\Model\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Employee\\Model\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:51:37.699Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
